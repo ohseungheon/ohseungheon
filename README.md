@@ -7,9 +7,9 @@ my name is
 
 ![ohseungheon's github stats](https://github-readme-stats.vercel.app/api?username=ohseungheon&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungheon)](https://github.com/seungheon/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungheon&size_weight=0.5&count_weight=0.5)](https://github.com/seungheon/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohseungheon&langs_count=8)](https://github.com/ohseungheon/github-readme-stats)
 
 <!--
 **ohseungheon/ohseungheon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
