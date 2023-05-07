@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-my name is oheung
+my name is 
 
 私はオスンホンと申します。
 <!--
