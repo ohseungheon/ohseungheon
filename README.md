@@ -6,6 +6,8 @@ my name is
 私はオスンホンと申します。
 
 ![ohseungheon's github stats](https://github-readme-stats.vercel.app/api?username=ohseungheon&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungheon)](https://github.com/seungheon/github-readme-stats)
 <!--
 **ohseungheon/ohseungheon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
